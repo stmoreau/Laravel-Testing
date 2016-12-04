@@ -14,7 +14,8 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ### Run instractions
 
-- To run this project simply run on your command line
-```
-php artisan serve
-```
+
+- Compile sass:
+`gulp` or `gulp watch`
+- To run this project:
+`php artisan serve`
